@@ -1,6 +1,6 @@
 # Minimal requirements
-Django>=1.7.1,<1.8
-wagtail==1.0b1
+Django>=4.2.28
+wagtail==6.3.6
 
 # Recommended components (require additional setup):
 # psycopg2==2.5.2
